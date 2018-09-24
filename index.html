@@ -1,8 +1,22 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: InfiniFab, Les lettres d'informations
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Hank Quinlan!</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+
+	<h1>{{ page.title }}</h1>
+	<div class="intro">
+		Bonjour à tous, pour faire parler de lui, l'Infini Fab à choisi de vous écrire une lettre d'information de temps en temps.
+
+		Vous trouverez ci dessous l'ensemble de ces lettres apparues à ce jour
+
+		Ce site est mise en place pour vous permettre de participer, comment ?
+		Tout le contenu est hebergé sur github, si vous avez un compte github vous pouvez alors commenter ces lettres, participer à la corections orthographique ou rectifier certain faits.
+
+	</div>
+
+
+	<ul class="posts">
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
