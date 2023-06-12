@@ -10,7 +10,8 @@ GITHUB est une plateforme participative, qui permet la revue d'un code informati
 Le porteur de projet gère alors un dépot qui peut etre revue par des tiers. 
 
 GITHUB propose de genrer des pages web via le contenu présent sur les dépot, les **github page**.
-C'est précisement cette option que nous utilisons sur ce site. Tout son contenu est libre et consultable sur le dépot de l'Infinifab, permettant à tout ceux qui le souhaite de participer à l'élaboration du site et son contenu.
+C'est précisement cette option que nous utilisons sur ce site. 
+Tout son contenu est libre et consultable sur le dépot de l'Infinifab, permettant à tout ceux qui le souhaite de participer à l'élaboration du site et son contenu.
 
 #### Comment participer ?
 
