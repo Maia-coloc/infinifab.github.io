@@ -55,6 +55,7 @@ Sur Guthub, nous pouvons utiliser une fonctionnalité qui vous permet simplement
 ## La syntaxe kramdown
 
 Les pages de ce site sont rédigées avec la syntaxe "kramdown", elle permet une mise en page assez simple et des pages un peu moins "chargées" en code. 
+
 Si vous n'etes pas familié avec ce code, pas de soucis, vous trouverez beaucoup d'information sur le net pour vous expliquer comment rédiger une page en kramdown.
 
 Dans tout les cas, faites vos suggestions, je revois le code et corrige les erreurs qui pourrait se glisser dans les suggestions.
