@@ -1,6 +1,7 @@
 ---
 title: "L'histoire du fablab"
 permalink : /histoire/
+pageurl : https://github.com/InfiniFab/infinifab.github.io/blob/master/histoire.md
 ---
 
 Infini Fab est un projet de fablab comme tant d'autre, porté par un seul bidouilleur, le projet avance avec l'ambition d'exister un jour, il se construit au fil des rencontres, des experiences et des échanges avec la communauté qui fait vivre les fablabs.
